@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Справочник рыболова Wiking Fish — поиск трофейных рыб, редких видов и рекордов.">
+    <meta name="keywords" content="рыба, трофей, рыбалка, справочник рыб, редкие рыбы, wiking fish">
+    <title>Wiking webcite</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="./image/LogoFish 300.png" alt="Логотип сайта Wiking fish">
+            <h1>Справочник рыболова</h1>
+        </div>
+
+        <button class="burger" aria-label="Открыть меню">☰</button>
+
+        <nav class="main-nav" aria-label="Главное меню">
+            <ul class="contacts">
+                <li><a href="#" class="contactBtn">Написать мне</a></li>
+                <li><a href="about.html">Обо мне</a></li>
+                <li><a href="#">Контакты</a></li>
+                <li><a href="https://rf4game.ru/forum/">FAQ/Помощь</a></li>                
+            </ul>
+        </nav>
+        
+    </header>
+
+    <main id="siteContainer" class="site-container">
+        <div id="mainContentBox" class="main-content-box">
+            <h2>ПОИСК РЕКОРДОВ РЫБ</h2>
+
+            <form id="serchFish" class="serch">
+                <input id="inputFish" class="input" type="text" placeholder="Введите название рыбы">
+                <button class="btn">Найти</button>
+            </form>
+
+            <div class="results" id="results"></div>
+
+            <div class="fish-stats">
+                <div>вес трофея</div>
+                <div id="trophyWeight">--</div>
+                        
+                <div>вес редкого трофея</div>
+                <div id="rareTrophyWeight">--</div> 
+                        
+                <div>максимальный вес</div>
+                <div id="maxWeight">--</div>
+                
+                <div>редкость</div>
+                <div id="rarity">--</div>
+
+            </div>
+        </div>   
+
+        <div class="festivalBox">
+
+            <h3>ФЕСТИВАЛЬ РЫБОЛОВА</h3>
+
+            <div class="gallery">                
+
+                <div class="card">
+                    <img src="./image/pinagor.png" alt="Pinagor">
+                    <div class="description">
+                        <p>Пинагор</p>
+                        <p>Вес: 6 000 гр.</p>
+                        <button class="btn-details"><a href="https://svoefermerstvo.ru/svoemedia/articles/pinagor-ryba-dlja-bor-by-s-lososjovymi-vshami-na-akvaferme">Подробнее</a></button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./image/acula-giga.png" alt="Акула гига">
+                    <div class="description">
+                        <p>Акула гига</p>
+                        <p>Вес: 3 008 460 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D1%83%D0%BB%D0%B0">Подробнее</a></button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./image/acula-plash.png" alt="Акула плащеносная">
+                    <div class="description">
+                        <p>Акула плащеносная</p>
+                        <p>Вес: 77 944 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%89%D0%B5%D0%BD%D0%BE%D1%81%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D1%83%D0%BB%D0%B0">Подробнее</a></button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./image/fish-mesh.png" alt="Меч-рыба">
+                    <div class="description">
+                        <p>Меч-рыба</p>
+                        <p>Вес: 520 575 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87-%D1%80%D1%8B%D0%B1%D0%B0">Подробнее</a></button>
+                    </div>
+                </div>
+
+            <!-- новая строка из 4 карточек -->
+                <div class="card">
+                    <img src="./image/more-shert.png" alt="Морской черт">
+                    <div class="description">
+                        <p>Морской черт</p>
+                        <p>Вес: 57 774 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%B4%D0%B8%D0%BB%D1%8C%D1%89%D0%B8%D0%BA">Подробнее</a></button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./image/lesh.png" alt="Лещ">
+                    <div class="description">
+                        <p>Лещ</p>
+                        <p>Вес: 7 962 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%89">Подробнее</a></button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./image/more-okun-norw.png" alt="Морской окунь">
+                    <div class="description">
+                        <p>Морской окунь</p>
+                        <p>Вес: 4 989 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%BA%D1%83%D0%BD%D0%B8">Подробнее</a></button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./image/acula-sel-atlant.png" alt="Акула сельдевая">
+                    <div class="description">
+                        <p>Акула сельдевая</p>
+                        <p>Вес: 196 739 гр.</p>
+                        <button class="btn-details"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B5%D0%BB%D1%8C%D0%B4%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BA%D1%83%D0%BB%D0%B0">Подробнее</a></button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+       
+    </main>
+
+    <footer class="footer">
+        <div class="footer-section slogan">
+            <h3>WIKING FISH: Твоя легенда, твой улов</h3>
+            <p>Wiking Fish — это база рекордов и трофеев. <br>Мы создаём каталог 
+            трофеев для удобного поиска <br>и быстрых ответов.</p>
+        </div>
+
+        <div class="footer-section social">
+            <a href="https://instagram.com/yourlink" target="_blank" aria-label="Instagram">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.34 3.608 1.316.975.975 1.254 2.242 1.316 3.608.058 1.266.069 1.646.069 4.843s-.012 3.578-.07 4.844c-.062 1.366-.34 2.633-1.316 3.608-.975.975-2.242 1.254-3.608 1.316-1.266.058-1.646.069-4.85.069s-3.584-.012-4.85-.07c-1.366-.062-2.633-.34-3.608-1.316-.975-.975-1.254-2.242-1.316-3.608C2.175 15.58 2.163 15.2 2.163 12s.012-3.578.07-4.844c.062-1.366.34-2.633 1.316-3.608.975-.975 2.242-1.254 3.608-1.316C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.74 0 8.332.012 7.052.07 5.771.127 4.64.425 3.678 1.387 2.716 2.348 2.418 3.48 2.361 4.761.012 8.332 0 8.74 0 12c0 3.26.012 3.668.07 4.948.057 1.281.355 2.413 1.317 3.375.962.962 2.094 1.26 3.375 1.317C8.332 23.988 8.74 24 12 24c3.26 0 3.668-.012 4.948-.07 1.281-.057 2.413-.355 3.375-1.317.962-.962 1.26-2.094 1.317-3.375.058-1.28.07-1.688.07-4.948 0-3.26-.012-3.668-.07-4.948-.057-1.281-.355-2.413-1.317-3.375C19.361.425 18.229.127 16.948.07 15.668.012 15.26 0 12 0z"/>
+            <path d="M12 5.838A6.162 6.162 0 1 0 12 18.162 6.162 6.162 0 1 0 12 5.838zM12 16A4 4 0 1 1 12 8a4 4 0 0 1 0 8z"/>
+            <circle cx="18.406" cy="5.594" r="1.44"/>
+            </svg>
+            </a>
+
+            <a href="https://t.me/yourlink" target="_blank" aria-label="Telegram">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+            <path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.584 11.094.555.102.76-.241.76-.537 0-.265-.01-1.145-.016-2.075-3.083.67-3.733-1.342-3.733-1.342-.505-1.285-1.234-1.628-1.234-1.628-.99-.676.075-.662.075-.662 1.094.078 1.67 1.124 1.67 1.124.97 1.662 2.545 1.182 3.167.905.098-.704.379-1.183.689-1.454-2.462-.28-5.053-1.23-5.053-5.477 0-1.21.433-2.197 1.142-2.972-.115-.281-.495-1.408.108-2.938 0 0 .93-.298 3.05 1.134a10.56 10.56 0 0 1 2.776-.373c.941.004 1.889.127 2.776.373 2.12-1.432 3.048-1.134 3.048-1.134.605 1.53.225 2.657.11 2.938.71.775 1.14 1.762 1.14 2.972 0 4.258-2.595 5.194-5.065 5.468.39.338.737 1.005.737 2.024 0 1.463-.014 2.643-.014 3.003 0 .298.202.645.77.536C20.84 21.422 24 17.083 24 12c0-6.627-5.373-12-12-12z"/>
+            </svg>
+            </a>
+
+            <a href="https://youtube.com/yourchannel" target="_blank" aria-label="YouTube">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+            <path d="M23.498 6.186a2.974 2.974 0 0 0-2.092-2.107C19.505 3.5 12 3.5 12 3.5s-7.505 0-9.406.579A2.974 2.974 0 0 0 .502 6.186C0 8.092 0 12 0 12s0 3.908.502 5.814a2.974 2.974 0 0 0 2.092 2.107C4.495 20.5 12 20.5 12 20.5s7.505 0 9.406-.579a2.974 2.974 0 0 0 2.092-2.107C24 15.908 24 12 24 12s0-3.908-.502-5.814zM9.75 15.568V8.432L15.818 12 9.75 15.568z"/>
+            </svg>
+            </a>
+
+        </div>
+
+        
+        <div class="footer-section contacts">
+            <p>Контактная информация:
+                <a href="info@wikingfish.com">info@wikingfish.com</a> <br>© 2025 Wiking Fish. Все права защищены.</p>  
+        </div>
+        
+    </footer>
+    <!-- Модальное окно -->
+    <div id="contactModal" class="modal">        
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Написать мне</h2>
+            <form id="contactForm">
+                <input type="text" name="name" placeholder="Ваше имя" required>
+                <input type="email" name="email" placeholder="Ваш e-mail" required>
+                <textarea name="message" placeholder="Ваше сообщение" required></textarea>
+                <button type="submit">Отправить</button>
+            </form>
+            <p class="policy">Отправляя форму, вы даете согласие на обработку персональных данных</p>    
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+    </body>
+</html>

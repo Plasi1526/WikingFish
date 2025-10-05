@@ -1,0 +1,1626 @@
+[
+    {
+        "name": "Акула гигантская",
+        "trophy_weight": "1 300 000 г",
+        "rare_trophy_weight": "2 500 000 г",
+        "max_weight": "3 008 460 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Акула гренландская полярная",
+        "trophy_weight": "600 000 г",
+        "rare_trophy_weight": "900 000 г",
+        "max_weight": "1 004 019 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Акула плащеносная",
+        "trophy_weight": "50 000 г",
+        "rare_trophy_weight": "70 000 г",
+        "max_weight": "77 944 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Акула сельдевая атлантическая",
+        "trophy_weight": "140 000 г",
+        "rare_trophy_weight": "200 000 г",
+        "max_weight": "196 739 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Амур белый",
+        "trophy_weight": "28 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "49 683 г",
+        "rarity": ""
+    },
+    {
+        "name": "Амур белый альбинос",
+        "trophy_weight": "28 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "43 272 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Амур чёрный",
+        "trophy_weight": "28 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "49 069 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Белоглазка",
+        "trophy_weight": "600 г",
+        "rare_trophy_weight": "900 г",
+        "max_weight": "968 г",
+        "rarity": ""
+    },
+    {
+        "name": "Белорыбица",
+        "trophy_weight": "15 000 г",
+        "rare_trophy_weight": "25 000 г",
+        "max_weight": "27 080 г",
+        "rarity": ""
+    },
+    {
+        "name": "Белуга каспийская",
+        "trophy_weight": "500 000 г",
+        "rare_trophy_weight": "1 000 000 г",
+        "max_weight": "853 276 г",
+        "rarity": ""
+    },
+    {
+        "name": "Белуга черноморская",
+        "trophy_weight": "500 000 г",
+        "rare_trophy_weight": "1 000 000 г",
+        "max_weight": "313 220 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Бельдюга европейская",
+        "trophy_weight": "900 г",
+        "rare_trophy_weight": "1 300 г",
+        "max_weight": "1 470 г",
+        "rarity": ""
+    },
+    {
+        "name": "Берикс красный",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "12 000 г",
+        "max_weight": "12 802 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Берш",
+        "trophy_weight": "1 400 г",
+        "rare_trophy_weight": "2 200 г",
+        "max_weight": "2 491 г",
+        "rarity": ""
+    },
+    {
+        "name": "Буффало большеротый",
+        "trophy_weight": "15 000 г",
+        "rare_trophy_weight": "20 000 г",
+        "max_weight": "24 400 г",
+        "rarity": ""
+    },
+    {
+        "name": "Буффало чёрный",
+        "trophy_weight": "15 000 г",
+        "rare_trophy_weight": "20 000 г",
+        "max_weight": "23 321 г",
+        "rarity": ""
+    },
+    {
+        "name": "Валёк",
+        "trophy_weight": "1 200 г",
+        "rare_trophy_weight": "1 600 г",
+        "max_weight": "1 623 г",
+        "rarity": ""
+    },
+    {
+        "name": "Вобла",
+        "trophy_weight": "500 г",
+        "rare_trophy_weight": "800 г",
+        "max_weight": "789 г",
+        "rarity": ""
+    },
+    {
+        "name": "Вырезуб",
+        "trophy_weight": "5 500 г",
+        "rare_trophy_weight": "7 500 г",
+        "max_weight": "8 206 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Вьюн",
+        "trophy_weight": "200 г",
+        "rare_trophy_weight": "250 г",
+        "max_weight": "287 г",
+        "rarity": ""
+    },
+    {
+        "name": "Гимантолоф атлантический",
+        "trophy_weight": "7 000 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "7 745 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Голавль",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "7 787 г",
+        "rarity": ""
+    },
+    {
+        "name": "Голец Дрягина",
+        "trophy_weight": "10 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "15 923 г",
+        "rarity": ""
+    },
+    {
+        "name": "Голец Куорский",
+        "trophy_weight": "22 000 г",
+        "rare_trophy_weight": "30 000 г",
+        "max_weight": "32 516 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Голец Леванидова",
+        "trophy_weight": "1 600 г",
+        "rare_trophy_weight": "2 100 г",
+        "max_weight": "1 893 г",
+        "rarity": ""
+    },
+    {
+        "name": "Голец арктический",
+        "trophy_weight": "11 000 г",
+        "rare_trophy_weight": "16 000 г",
+        "max_weight": "19 290 г",
+        "rarity": ""
+    },
+    {
+        "name": "Голец сибирский-усач",
+        "trophy_weight": "60 г",
+        "rare_trophy_weight": "80 г",
+        "max_weight": "95 г",
+        "rarity": ""
+    },
+    {
+        "name": "Гольян",
+        "trophy_weight": "100 г",
+        "rare_trophy_weight": "160 г",
+        "max_weight": "181 г",
+        "rarity": ""
+    },
+    {
+        "name": "Гольян озёрный",
+        "trophy_weight": "100 г",
+        "rare_trophy_weight": "160 г",
+        "max_weight": "181 г",
+        "rarity": ""
+    },
+    {
+        "name": "Горбуша",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "5 327 г",
+        "rarity": ""
+    },
+    {
+        "name": "Горбыль серебристый",
+        "trophy_weight": "65 000 г",
+        "rare_trophy_weight": "90 000 г",
+        "max_weight": "92 247 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Гребешок исландский",
+        "trophy_weight": "350 г",
+        "rare_trophy_weight": "450 г",
+        "max_weight": "501 г",
+        "rarity": ""
+    },
+    {
+        "name": "Густера",
+        "trophy_weight": "800 г",
+        "rare_trophy_weight": "1 200 г",
+        "max_weight": "1 389 г",
+        "rarity": ""
+    },
+    {
+        "name": "Дрейссена речная",
+        "trophy_weight": "150 г",
+        "rare_trophy_weight": "210 г",
+        "max_weight": "248 г",
+        "rarity": ""
+    },
+    {
+        "name": "Елец",
+        "trophy_weight": "250 г",
+        "rare_trophy_weight": "390 г",
+        "max_weight": "413 г",
+        "rarity": ""
+    },
+    {
+        "name": "Елец сибирский",
+        "trophy_weight": "250 г",
+        "rare_trophy_weight": "390 г",
+        "max_weight": "406 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ерш",
+        "trophy_weight": "140 г",
+        "rare_trophy_weight": "220 г",
+        "max_weight": "249 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ерш-носарь",
+        "trophy_weight": "250 г",
+        "rare_trophy_weight": "350 г",
+        "max_weight": "433 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Жерех",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "13 000 г",
+        "max_weight": "13 858 г",
+        "rarity": ""
+    },
+    {
+        "name": "Зубатка полосатая",
+        "trophy_weight": "14 500 г",
+        "rare_trophy_weight": "19 000 г",
+        "max_weight": "23 711 г",
+        "rarity": ""
+    },
+    {
+        "name": "Зубатка пятнистая",
+        "trophy_weight": "17 000 г",
+        "rare_trophy_weight": "22 000 г",
+        "max_weight": "27 768 г",
+        "rarity": ""
+    },
+    {
+        "name": "Зубатка синяя",
+        "trophy_weight": "13 000 г",
+        "rare_trophy_weight": "17 000 г",
+        "max_weight": "19 541 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Калуга",
+        "trophy_weight": "500 000 г",
+        "rare_trophy_weight": "1 000 000 г",
+        "max_weight": "333 354 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Кальмар обыкновенный",
+        "trophy_weight": "2 000 г",
+        "rare_trophy_weight": "2 400 г",
+        "max_weight": "2 995 г",
+        "rarity": ""
+    },
+    {
+        "name": "Камбала морская",
+        "trophy_weight": "4 500 г",
+        "rare_trophy_weight": "5 500 г",
+        "max_weight": "6 909 г",
+        "rarity": ""
+    },
+    {
+        "name": "Камбала палтусовидная",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "6 234 г",
+        "rarity": ""
+    },
+    {
+        "name": "Камбала хоботная",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 944 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карасекарп",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 975 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карась золотой",
+        "trophy_weight": "1 800 г",
+        "rare_trophy_weight": "2 900 г",
+        "max_weight": "3 487 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карась серебряный",
+        "trophy_weight": "1 900 г",
+        "rare_trophy_weight": "3 200 г",
+        "max_weight": "3 912 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карп Динкенбюльский голый",
+        "trophy_weight": "35 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "51 970 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Динкенбюльский зеркальный",
+        "trophy_weight": "35 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "58 896 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карп Динкенбюльский линейный",
+        "trophy_weight": "35 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "54 927 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Карп Кои Ёцусиро",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "37 827 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Кои Кохаку",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "37 940 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Кои Мамэсибори Госики",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "39 337 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Кои Мидори-гои",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "28 263 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Кои Наруми Асаги",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "36 799 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Кои Орэндзи Огон",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "39 537 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Карп Кои Хи Уцури",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "35 366 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп Супер Фрикс",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "49 777 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Карп голый",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "52 676 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Карп голый - альбинос",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "27 244 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп голый - призрак",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "37 387 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп зеркальный",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "49 931 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карп зеркальный - альбинос",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "36 573 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп зеркальный - призрак",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "46 009 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп красный Старвас - зеркальный",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "36 980 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп красный Старвас - чешуйчатый",
+        "trophy_weight": "20 000 г",
+        "rare_trophy_weight": "30 000 г",
+        "max_weight": "36 583 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп линейный",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "46 766 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карп линейный - альбинос",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "36 757 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп линейный - призрак",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "36 499 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп рамчатый",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "49 690 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карп рамчатый - альбинос",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "22 814 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп рамчатый - призрак",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "33 054 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп чешуйчатый",
+        "trophy_weight": "20 000 г",
+        "rare_trophy_weight": "30 000 г",
+        "max_weight": "39 983 г",
+        "rarity": ""
+    },
+    {
+        "name": "Карп чешуйчатый - альбинос",
+        "trophy_weight": "20 000 г",
+        "rare_trophy_weight": "30 000 г",
+        "max_weight": "31 566 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Карп чешуйчатый - призрак",
+        "trophy_weight": "20 000 г",
+        "rare_trophy_weight": "30 000 г",
+        "max_weight": "36 505 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Катран",
+        "trophy_weight": "7 000 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "11 962 г",
+        "rarity": ""
+    },
+    {
+        "name": "Керчак европейский",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 991 г",
+        "rarity": ""
+    },
+    {
+        "name": "Кета",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "11 799 г",
+        "rarity": ""
+    },
+    {
+        "name": "Кижуч",
+        "trophy_weight": "5 500 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "6 828 г",
+        "rarity": ""
+    },
+    {
+        "name": "Колюшка девятииглая",
+        "trophy_weight": "70 г",
+        "rare_trophy_weight": "90 г",
+        "max_weight": "90 г",
+        "rarity": ""
+    },
+    {
+        "name": "Колюшка малая южная",
+        "trophy_weight": "70 г",
+        "rare_trophy_weight": "90 г",
+        "max_weight": "99 г",
+        "rarity": ""
+    },
+    {
+        "name": "Колюшка трёхиглая",
+        "trophy_weight": "70 г",
+        "rare_trophy_weight": "90 г",
+        "max_weight": "94 г",
+        "rarity": ""
+    },
+    {
+        "name": "Конгер",
+        "trophy_weight": "60 000 г",
+        "rare_trophy_weight": "75 000 г",
+        "max_weight": "93 012 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Корюшка",
+        "trophy_weight": "130 г",
+        "rare_trophy_weight": "200 г",
+        "max_weight": "239 г",
+        "rarity": ""
+    },
+    {
+        "name": "Корюшка азиатская",
+        "trophy_weight": "270 г",
+        "rare_trophy_weight": "320 г",
+        "max_weight": "348 г",
+        "rarity": ""
+    },
+    {
+        "name": "Краб камчатский",
+        "trophy_weight": "7 500 г",
+        "rare_trophy_weight": "9 000 г",
+        "max_weight": "12 243 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Краб съедобный",
+        "trophy_weight": "1 800 г",
+        "rare_trophy_weight": "2 200 г",
+        "max_weight": "2 685 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Краснопёр монгольский",
+        "trophy_weight": "2 500 г",
+        "rare_trophy_weight": "3 200 г",
+        "max_weight": "3 022 г",
+        "rarity": ""
+    },
+    {
+        "name": "Краснопёр-Угай крупночешуйчатый",
+        "trophy_weight": "1 200 г",
+        "rare_trophy_weight": "1 500 г",
+        "max_weight": "1 792 г",
+        "rarity": ""
+    },
+    {
+        "name": "Краснопёрка",
+        "trophy_weight": "1 500 г",
+        "rare_trophy_weight": "2 000 г",
+        "max_weight": "2 299 г",
+        "rarity": ""
+    },
+    {
+        "name": "Кунджа",
+        "trophy_weight": "10 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "13 539 г",
+        "rarity": ""
+    },
+    {
+        "name": "Кутум",
+        "trophy_weight": "5 000 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "7 421 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ленок острорылый",
+        "trophy_weight": "5 500 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "7 227 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ленок тупорылый",
+        "trophy_weight": "7 500 г",
+        "rare_trophy_weight": "9 000 г",
+        "max_weight": "11 618 г",
+        "rarity": ""
+    },
+    {
+        "name": "Лещ",
+        "trophy_weight": "4 400 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "7 962 г",
+        "rarity": ""
+    },
+    {
+        "name": "Лещ восточный",
+        "trophy_weight": "4 400 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "7 857 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ликод Эсмарка",
+        "trophy_weight": "2 500 г",
+        "rare_trophy_weight": "3 300 г",
+        "max_weight": "2 878 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Ликод полуголый",
+        "trophy_weight": "1 200 г",
+        "rare_trophy_weight": "1 500 г",
+        "max_weight": "1 670 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Линь",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "6 000 г",
+        "max_weight": "7 295 г",
+        "rarity": ""
+    },
+    {
+        "name": "Линь Квольсдорфский",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "6 000 г",
+        "max_weight": "7 415 г",
+        "rarity": ""
+    },
+    {
+        "name": "Линь золотистый",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "6 000 г",
+        "max_weight": "7 008 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Лосось атлантический",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "38 004 г",
+        "rarity": ""
+    },
+    {
+        "name": "Лосось каспийский",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "50 000 г",
+        "max_weight": "49 003 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Лосось ладожский",
+        "trophy_weight": "14 000 г",
+        "rare_trophy_weight": "20 000 г",
+        "max_weight": "21 259 г",
+        "rarity": ""
+    },
+    {
+        "name": "Лягушка",
+        "trophy_weight": "190 г",
+        "rare_trophy_weight": "250 г",
+        "max_weight": "299 г",
+        "rarity": ""
+    },
+    {
+        "name": "Макрель атлантическая",
+        "trophy_weight": "2 000 г",
+        "rare_trophy_weight": "2 800 г",
+        "max_weight": "3 498 г",
+        "rarity": ""
+    },
+    {
+        "name": "Макрурус северный",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "3 512 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Мальма",
+        "trophy_weight": "7 500 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "11 909 г",
+        "rarity": ""
+    },
+    {
+        "name": "Менёк",
+        "trophy_weight": "18 000 г",
+        "rare_trophy_weight": "24 000 г",
+        "max_weight": "29 785 г",
+        "rarity": ""
+    },
+    {
+        "name": "Мерланг",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 805 г",
+        "rarity": ""
+    },
+    {
+        "name": "Мерлуза",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "12 000 г",
+        "max_weight": "14 975 г",
+        "rarity": ""
+    },
+    {
+        "name": "Меч-рыба",
+        "trophy_weight": "300 000 г",
+        "rare_trophy_weight": "450 000 г",
+        "max_weight": "520 575 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Мидия",
+        "trophy_weight": "130 г",
+        "rare_trophy_weight": "150 г",
+        "max_weight": "188 г",
+        "rarity": ""
+    },
+    {
+        "name": "Микижа",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "10 162 г",
+        "rarity": ""
+    },
+    {
+        "name": "Минога дальневосточная ручьевая",
+        "trophy_weight": "40 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "26 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Минога каспийская",
+        "trophy_weight": "150 г",
+        "rare_trophy_weight": "200 г",
+        "max_weight": "107 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Минога сибирская",
+        "trophy_weight": "40 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "25 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Минога трёхзубая",
+        "trophy_weight": "9 999 999 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "65 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Минога украинская",
+        "trophy_weight": "70 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "65 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Мольва голубая",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "35 000 г",
+        "max_weight": "44 811 г",
+        "rarity": ""
+    },
+    {
+        "name": "Мольва обыкновенная",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "46 195 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Морской чёрт",
+        "trophy_weight": "35 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "57 774 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Муксун",
+        "trophy_weight": "6 000 г",
+        "rare_trophy_weight": "9 000 г",
+        "max_weight": "9 534 г",
+        "rarity": ""
+    },
+    {
+        "name": "Налим",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "15 857 г",
+        "rarity": ""
+    },
+    {
+        "name": "Нейва",
+        "trophy_weight": "1 400 г",
+        "rare_trophy_weight": "1 700 г",
+        "max_weight": "1 551 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Нельма",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "30 000 г",
+        "max_weight": "26 022 г",
+        "rarity": ""
+    },
+    {
+        "name": "Нерка",
+        "trophy_weight": "4 500 г",
+        "rare_trophy_weight": "6 000 г",
+        "max_weight": "6 663 г",
+        "rarity": ""
+    },
+    {
+        "name": "Окунь",
+        "trophy_weight": "1 600 г",
+        "rare_trophy_weight": "2 700 г",
+        "max_weight": "3 497 г",
+        "rarity": ""
+    },
+    {
+        "name": "Окунь каменный",
+        "trophy_weight": "60 000 г",
+        "rare_trophy_weight": "75 000 г",
+        "max_weight": "91 378 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Окунь морской золотистый",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "11 000 г",
+        "max_weight": "14 532 г",
+        "rarity": ""
+    },
+    {
+        "name": "Окунь морской норвежский",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 989 г",
+        "rarity": ""
+    },
+    {
+        "name": "Окунь солнечный",
+        "trophy_weight": "450 г",
+        "rare_trophy_weight": "600 г",
+        "max_weight": "685 г",
+        "rarity": ""
+    },
+    {
+        "name": "Окунь-клювач",
+        "trophy_weight": "5 500 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "8 790 г",
+        "rarity": ""
+    },
+    {
+        "name": "Омуль арктический",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 736 г",
+        "rarity": ""
+    },
+    {
+        "name": "Омуль байкальский",
+        "trophy_weight": "6 000 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "6 636 г",
+        "rarity": ""
+    },
+    {
+        "name": "Опах краснопёрый",
+        "trophy_weight": "140 000 г",
+        "rare_trophy_weight": "200 000 г",
+        "max_weight": "258 456 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Осётр балтийский",
+        "trophy_weight": "200 000 г",
+        "rare_trophy_weight": "300 000 г",
+        "max_weight": "285 994 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Осётр восточносибирский",
+        "trophy_weight": "100 000 г",
+        "rare_trophy_weight": "150 000 г",
+        "max_weight": "192 476 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Осётр ладожский",
+        "trophy_weight": "60 000 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "59 531 г",
+        "rarity": ""
+    },
+    {
+        "name": "Осётр персидский",
+        "trophy_weight": "100 000 г",
+        "rare_trophy_weight": "150 000 г",
+        "max_weight": "118 711 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Осётр русский",
+        "trophy_weight": "50 000 г",
+        "rare_trophy_weight": "100 000 г",
+        "max_weight": "114 940 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Палия кряжевая",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 500 г",
+        "max_weight": "4 558 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Палия лудожная",
+        "trophy_weight": "5 000 г",
+        "rare_trophy_weight": "7 600 г",
+        "max_weight": "9 640 г",
+        "rarity": ""
+    },
+    {
+        "name": "Палия обыкновенная",
+        "trophy_weight": "5 000 г",
+        "rare_trophy_weight": "7 600 г",
+        "max_weight": "8 640 г",
+        "rarity": ""
+    },
+    {
+        "name": "Палтус атлантический",
+        "trophy_weight": "150 000 г",
+        "rare_trophy_weight": "220 000 г",
+        "max_weight": "315 368 г",
+        "rarity": ""
+    },
+    {
+        "name": "Палтус синекорый",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "32 000 г",
+        "max_weight": "44 881 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Пелядь",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 988 г",
+        "rarity": ""
+    },
+    {
+        "name": "Перловица",
+        "trophy_weight": "190 г",
+        "rare_trophy_weight": "280 г",
+        "max_weight": "348 г",
+        "rarity": ""
+    },
+    {
+        "name": "Пескарь обыкновенный",
+        "trophy_weight": "100 г",
+        "rare_trophy_weight": "160 г",
+        "max_weight": "199 г",
+        "rarity": ""
+    },
+    {
+        "name": "Пескарь сибирский",
+        "trophy_weight": "150 г",
+        "rare_trophy_weight": "200 г",
+        "max_weight": "181 г",
+        "rarity": ""
+    },
+    {
+        "name": "Пикша",
+        "trophy_weight": "11 000 г",
+        "rare_trophy_weight": "13 000 г",
+        "max_weight": "16 999 г",
+        "rarity": ""
+    },
+    {
+        "name": "Пинагор",
+        "trophy_weight": "6 000 г",
+        "rare_trophy_weight": "7 500 г",
+        "max_weight": "9 423 г",
+        "rarity": ""
+    },
+    {
+        "name": "Плотва обыкновенная",
+        "trophy_weight": "1 200 г",
+        "rare_trophy_weight": "2 000 г",
+        "max_weight": "2 494 г",
+        "rarity": ""
+    },
+    {
+        "name": "Плотва сибирская",
+        "trophy_weight": "600 г",
+        "rare_trophy_weight": "700 г",
+        "max_weight": "781 г",
+        "rarity": ""
+    },
+    {
+        "name": "Подкаменщик сибирский",
+        "trophy_weight": "45 г",
+        "rare_trophy_weight": "55 г",
+        "max_weight": "59 г",
+        "rarity": ""
+    },
+    {
+        "name": "Подуст",
+        "trophy_weight": "800 г",
+        "rare_trophy_weight": "1 200 г",
+        "max_weight": "1 531 г",
+        "rarity": ""
+    },
+    {
+        "name": "Поллак",
+        "trophy_weight": "11 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "17 614 г",
+        "rarity": ""
+    },
+    {
+        "name": "Пузанок каспийский",
+        "trophy_weight": "250 г",
+        "rare_trophy_weight": "340 г",
+        "max_weight": "393 г",
+        "rarity": ""
+    },
+    {
+        "name": "Путассу северная",
+        "trophy_weight": "900 г",
+        "rare_trophy_weight": "1 200 г",
+        "max_weight": "1 486 г",
+        "rarity": ""
+    },
+    {
+        "name": "Рак речной",
+        "trophy_weight": "200 г",
+        "rare_trophy_weight": "330 г",
+        "max_weight": "372 г",
+        "rarity": ""
+    },
+    {
+        "name": "Рипус",
+        "trophy_weight": "1 200 г",
+        "rare_trophy_weight": "1 700 г",
+        "max_weight": "1 923 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ротан",
+        "trophy_weight": "400 г",
+        "rare_trophy_weight": "700 г",
+        "max_weight": "791 г",
+        "rarity": ""
+    },
+    {
+        "name": "Рыбец",
+        "trophy_weight": "1 500 г",
+        "rare_trophy_weight": "2 400 г",
+        "max_weight": "2 703 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ряпушка",
+        "trophy_weight": "500 г",
+        "rare_trophy_weight": "800 г",
+        "max_weight": "993 г",
+        "rarity": ""
+    },
+    {
+        "name": "Ряпушка сибирская",
+        "trophy_weight": "800 г",
+        "rare_trophy_weight": "1 100 г",
+        "max_weight": "1 240 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сазан",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "35 000 г",
+        "max_weight": "49 964 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сайда",
+        "trophy_weight": "19 000 г",
+        "rare_trophy_weight": "25 000 г",
+        "max_weight": "31 973 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сайра атлантическая",
+        "trophy_weight": "600 г",
+        "rare_trophy_weight": "750 г",
+        "max_weight": "993 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сардина европейская",
+        "trophy_weight": "180 г",
+        "rare_trophy_weight": "240 г",
+        "max_weight": "296 г",
+        "rarity": ""
+    },
+    {
+        "name": "Севрюга",
+        "trophy_weight": "50 000 г",
+        "rare_trophy_weight": "70 000 г",
+        "max_weight": "61 244 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Сельдь Бражникова",
+        "trophy_weight": "700 г",
+        "rare_trophy_weight": "1 000 г",
+        "max_weight": "931 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сельдь Кесслера",
+        "trophy_weight": "1 200 г",
+        "rare_trophy_weight": "1 700 г",
+        "max_weight": "1 871 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сельдь атлантическая",
+        "trophy_weight": "800 г",
+        "rare_trophy_weight": "1 000 г",
+        "max_weight": "1 159 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сельдь черноморская",
+        "trophy_weight": "650 г",
+        "rare_trophy_weight": "900 г",
+        "max_weight": "1 046 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг валаамский",
+        "trophy_weight": "1 500 г",
+        "rare_trophy_weight": "2 500 г",
+        "max_weight": "2 514 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг волховский",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "5 700 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Сиг вуоксинский",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "5 238 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг куорский",
+        "trophy_weight": "3 500 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "5 661 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг ладожский озёрный",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 200 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг острожский",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "4 000 г",
+        "max_weight": "4 092 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Сиг свирский",
+        "trophy_weight": "3 500 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "4 060 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Сиг чёрный",
+        "trophy_weight": "3 500 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "5 422 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг-лудога",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "5 487 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сиг-пыжьян",
+        "trophy_weight": "4 500 г",
+        "rare_trophy_weight": "6 000 г",
+        "max_weight": "5 623 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сима",
+        "trophy_weight": "6 500 г",
+        "rare_trophy_weight": "8 000 г",
+        "max_weight": "9 148 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Сима жилая",
+        "trophy_weight": "5 000 г",
+        "rare_trophy_weight": "6 500 г",
+        "max_weight": "7 643 г",
+        "rarity": ""
+    },
+    {
+        "name": "Синец",
+        "trophy_weight": "750 г",
+        "rare_trophy_weight": "1 100 г",
+        "max_weight": "1 234 г",
+        "rarity": ""
+    },
+    {
+        "name": "Скат колючий",
+        "trophy_weight": "11 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "16 883 г",
+        "rarity": ""
+    },
+    {
+        "name": "Скат полярный",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "12 251 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Сом",
+        "trophy_weight": "100 000 г",
+        "rare_trophy_weight": "200 000 г",
+        "max_weight": "260 846 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сом альбинос",
+        "trophy_weight": "100 000 г",
+        "rare_trophy_weight": "200 000 г",
+        "max_weight": "97 146 г",
+        "rarity": ""
+    },
+    {
+        "name": "Сом амурский",
+        "trophy_weight": "5 000 г",
+        "rare_trophy_weight": "7 000 г",
+        "max_weight": "7 069 г",
+        "rarity": ""
+    },
+    {
+        "name": "Стерлядь",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "13 415 г",
+        "rarity": ""
+    },
+    {
+        "name": "Стерлядь сибирская",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "14 000 г",
+        "max_weight": "16 184 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Судак",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "12 000 г",
+        "max_weight": "15 755 г",
+        "rarity": ""
+    },
+    {
+        "name": "Таймень",
+        "trophy_weight": "50 000 г",
+        "rare_trophy_weight": "80 000 г",
+        "max_weight": "81 964 г",
+        "rarity": ""
+    },
+    {
+        "name": "Тарань",
+        "trophy_weight": "1 300 г",
+        "rare_trophy_weight": "1 800 г",
+        "max_weight": "1 994 г",
+        "rarity": ""
+    },
+    {
+        "name": "Толстолобик белый",
+        "trophy_weight": "25 000 г",
+        "rare_trophy_weight": "40 000 г",
+        "max_weight": "39 047 г",
+        "rarity": ""
+    },
+    {
+        "name": "Толстолобик пёстрый",
+        "trophy_weight": "30 000 г",
+        "rare_trophy_weight": "45 000 г",
+        "max_weight": "56 872 г",
+        "rarity": ""
+    },
+    {
+        "name": "Треска атлантическая",
+        "trophy_weight": "50 000 г",
+        "rare_trophy_weight": "65 000 г",
+        "max_weight": "96 584 г",
+        "rarity": ""
+    },
+    {
+        "name": "Тугун",
+        "trophy_weight": "60 г",
+        "rare_trophy_weight": "70 г",
+        "max_weight": "72 г",
+        "rarity": ""
+    },
+    {
+        "name": "Тунец голубой",
+        "trophy_weight": "250 000 г",
+        "rare_trophy_weight": "400 000 г",
+        "max_weight": "504 879 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Тюлька черноморская",
+        "trophy_weight": "24 г",
+        "rare_trophy_weight": "28 г",
+        "max_weight": "28 г",
+        "rarity": ""
+    },
+    {
+        "name": "Тюрбо",
+        "trophy_weight": "14 000 г",
+        "rare_trophy_weight": "18 000 г",
+        "max_weight": "23 321 г",
+        "rarity": ""
+    },
+    {
+        "name": "Угольщик обыкновенный",
+        "trophy_weight": "9 999 999 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "4 817 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Угорь",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "7 500 г",
+        "max_weight": "7 945 г",
+        "rarity": ""
+    },
+    {
+        "name": "Уклейка",
+        "trophy_weight": "110 г",
+        "rare_trophy_weight": "160 г",
+        "max_weight": "199 г",
+        "rarity": ""
+    },
+    {
+        "name": "Усач альбинос",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "12 000 г",
+        "max_weight": "11 882 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Усач короткоголовый",
+        "trophy_weight": "13 000 г",
+        "rare_trophy_weight": "18 000 г",
+        "max_weight": "19 445 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Усач обыкновенный",
+        "trophy_weight": "8 000 г",
+        "rare_trophy_weight": "12 000 г",
+        "max_weight": "14 741 г",
+        "rarity": ""
+    },
+    {
+        "name": "Устрица съедобная",
+        "trophy_weight": "300 г",
+        "rare_trophy_weight": "370 г",
+        "max_weight": "384 г",
+        "rarity": ""
+    },
+    {
+        "name": "Форель озерная",
+        "trophy_weight": "10 000 г",
+        "rare_trophy_weight": "15 000 г",
+        "max_weight": "17 663 г",
+        "rarity": ""
+    },
+    {
+        "name": "Форель радужная",
+        "trophy_weight": "10 000 г",
+        "rare_trophy_weight": "13 000 г",
+        "max_weight": "12 899 г",
+        "rarity": ""
+    },
+    {
+        "name": "Форель ручьевая",
+        "trophy_weight": "3 000 г",
+        "rare_trophy_weight": "5 000 г",
+        "max_weight": "6 958 г",
+        "rarity": ""
+    },
+    {
+        "name": "Форель севанская",
+        "trophy_weight": "9 000 г",
+        "rare_trophy_weight": "15 000 г",
+        "max_weight": "15 627 г",
+        "rarity": ""
+    },
+    {
+        "name": "Хариус восточносибирский",
+        "trophy_weight": "2 000 г",
+        "rare_trophy_weight": "2 500 г",
+        "max_weight": "2 982 г",
+        "rarity": ""
+    },
+    {
+        "name": "Хариус европейский",
+        "trophy_weight": "3 200 г",
+        "rare_trophy_weight": "5 500 г",
+        "max_weight": "5 879 г",
+        "rarity": ""
+    },
+    {
+        "name": "Хариус западносибирский",
+        "trophy_weight": "2 000 г",
+        "rare_trophy_weight": "2 500 г",
+        "max_weight": "2 903 г",
+        "rarity": ""
+    },
+    {
+        "name": "Химера европейская",
+        "trophy_weight": "1 500 г",
+        "rare_trophy_weight": "9 999 999 г",
+        "max_weight": "1 327 г",
+        "rarity": "Редчайший вид"
+    },
+    {
+        "name": "Центролоф чёрный",
+        "trophy_weight": "24 000 г",
+        "rare_trophy_weight": "29 000 г",
+        "max_weight": "37 995 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Чавыча",
+        "trophy_weight": "40 000 г",
+        "rare_trophy_weight": "60 000 г",
+        "max_weight": "54 128 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Чехонь",
+        "trophy_weight": "1 500 г",
+        "rare_trophy_weight": "2 000 г",
+        "max_weight": "2 347 г",
+        "rarity": ""
+    },
+    {
+        "name": "Чир",
+        "trophy_weight": "7 000 г",
+        "rare_trophy_weight": "10 000 г",
+        "max_weight": "11 090 г",
+        "rarity": ""
+    },
+    {
+        "name": "Чукучан",
+        "trophy_weight": "1 800 г",
+        "rare_trophy_weight": "2 200 г",
+        "max_weight": "2 218 г",
+        "rarity": ""
+    },
+    {
+        "name": "Шемая каспийская",
+        "trophy_weight": "600 г",
+        "rare_trophy_weight": "900 г",
+        "max_weight": "1 023 г",
+        "rarity": ""
+    },
+    {
+        "name": "Шемая черноморская",
+        "trophy_weight": "500 г",
+        "rare_trophy_weight": "700 г",
+        "max_weight": "795 г",
+        "rarity": ""
+    },
+    {
+        "name": "Шип",
+        "trophy_weight": "50 000 г",
+        "rare_trophy_weight": "70 000 г",
+        "max_weight": "57 392 г",
+        "rarity": "Редкий вид"
+    },
+    {
+        "name": "Щука обыкновенная",
+        "trophy_weight": "12 000 г",
+        "rare_trophy_weight": "20 000 г",
+        "max_weight": "29 661 г",
+        "rarity": ""
+    },
+    {
+        "name": "Язь",
+        "trophy_weight": "4 000 г",
+        "rare_trophy_weight": "6 500 г",
+        "max_weight": "7 061 г",
+        "rarity": ""
+    }
+]
