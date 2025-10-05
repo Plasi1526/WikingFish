@@ -30,7 +30,7 @@
 - `js/main.js` — логика поиска и отображения
 
 ---
-![Скриншот WIKING Fish](images/screenshot.jpg)
+![Скриншот WIKING Fish](image/screenshot.jpg)
 
 ---
 
